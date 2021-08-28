@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    width: 400px;
+    margin-left: 60px;
+}
+
+.nota-alunos{
+    color: blue;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 500px;
+}
+
+table,td,th{
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    height: 25px;
+}
+
+.alta{
+    color: green;
+    text-align: center;
+}
+
+.baixa{
+    color: red;
+    text-align: center;
+}
+
+.gray{
+    background-color: gray;
+}
